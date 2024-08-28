@@ -10,7 +10,6 @@ I'm a Front-End Developer passionate about crafting beautiful and functional web
 - 🔍 **Backend Technologies**
 - 🌟 Contributing to open-source projects
 
-![Progress](https://img.shields.io/badge/Progress-30%25-brightgreen)
 
 ## 💼 Projects
 Check out my work on my [LinkedIn profile](https://www.linkedin.com/in/saadatyaseen).
