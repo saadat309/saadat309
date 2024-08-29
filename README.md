@@ -12,7 +12,9 @@ I'm a Front-End Developer passionate about crafting beautiful and functional web
 
 
 ## 💼 Projects
-Check out my work on my [LinkedIn profile](https://www.linkedin.com/in/saadatyaseen).
+Check out my work on my <a href="https://rb.gy/h02ipj" target="_blank">
+   LinkedIn
+</a>.
 
 ## 📫 Connect with Me
 
