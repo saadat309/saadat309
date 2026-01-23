@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saadat</h1>
-<h3 align="center">Aspiring to Master Frontend Development</h3>
+<h3 align="center">Aspiring to Master Full Stack Development</h3>
 
 ## 👨‍💻 About Me
-I'm a Front-End Developer passionate about crafting beautiful and functional web experiences. Currently mastering **Advanced JavaScript** and its frameworks like **React**, **React Native**, and **Next.js**. I'm also exploring backend skills to become a full-stack developer.
+I'm a Full Stack Developer passionate about crafting beautiful and functional web experiences. Currently mastering **Advanced JavaScript** and its frameworks like **React**, **React Native**, and **Next.js**.
 
 
 ## 🚀 What I'm Working On
